@@ -22,3 +22,4 @@
 
 *Dr. Boom
 *Red Skill
+*Dr. Josue
