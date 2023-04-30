@@ -17,3 +17,8 @@
 * Vision
 * Wasp
 * Antman
+
+#Villanos
+
+*Dr. Boom
+*Red Skill
