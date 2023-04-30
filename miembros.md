@@ -18,8 +18,8 @@
 * Wasp
 * Antman
 
-#Villanos
+##Villanos
 
-*Dr. Boom
-*Red Skill
-*Dr. Josue
+* Dr. Boom
+* Red Skill
+* Dr. Josue
