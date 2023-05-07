@@ -17,6 +17,7 @@
 * Vision
 * Wasp
 * Antman
+* Nick Fury
 
 ## Villanos
 
