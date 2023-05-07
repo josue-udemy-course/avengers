@@ -3,7 +3,6 @@
 * Black panther
 * Black Widow
 * Capitán America
-* Capitán Marvel
 * Falcon
 * Hank Pym
 * Hawkeye
@@ -23,4 +22,3 @@
 
 * Dr. Boom
 * Red Skill
-* Dr. Josue
